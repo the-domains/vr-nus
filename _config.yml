@@ -22,73 +22,13 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: video
-    html: >-
-      <iframe
-      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F188536741&url=https%3A%2F%2Fvimeo.com%2F188536741&image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F599180163_1280.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=vimeo"
-      width="1000" height="563" scrolling="no" frameborder="0"
-      allowfullscreen></iframe>
-    src: !<tag:yaml.org,2002:js/undefined> ''
-    metadata:
-      author:
-        - name: Silverline Films
-          url: 'https://vimeo.com/silverlinefilms'
-          avatar: {}
-      datePublished: null
-      keywords: []
-      '@type': VideoObject
-      title: 2016 VR Bash
-      isBasedOnUrl: 'https://vimeo.com/188536741'
-      publisher:
-        favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-        url: 'https://vimeo.com/'
-        name: Vimeo
-        domain: vimeo.com
-      description: >-
-        Hundreds Turn Out for Record-Breaking Events in Idaho The Idaho VR
-        Council, a non-profit committed to VR / AR innovations hosted the VR
-        Bash: the largest VR / AR event in the state with over 700 people
-        packing the Knitting Factory on Wednesday night.
-      related: []
-      app_links:
-        - app_name: Vimeo
-          namespace: ai
-          app_store_id: '425194759'
-          url: 'vimeo://app.vimeo.com/videos/188536741'
-          type: ios
-        - package: com.vimeo.android.videoapp
-          app_name: Vimeo
-          namespace: ai
-          should_fallback: 'true'
-          url: 'vimeo://app.vimeo.com/videos/188536741'
-          type: web
-        - id: '425194759'
-          namespace: twitter
-          url: 'vimeo://app.vimeo.com/videos/188536741'
-          type: ipad
-          name: Vimeo
-        - id: '425194759'
-          namespace: twitter
-          url: 'vimeo://app.vimeo.com/videos/188536741'
-          type: iphone
-          name: Vimeo
-        - id: com.vimeo.android.videoapp
-          namespace: twitter
-          url: 'vimeo://app.vimeo.com/videos/188536741'
-          type: googleplay
-          name: Vimeo
-      '@context': 'http://schema.org'
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 navigation:
-  - id: 65b15f43-39f9-49b8-b0a2-199bef1b4b19
-    name: Worth it
+  - name: Worth it
+    id: 65b15f43-39f9-49b8-b0a2-199bef1b4b19
     type: content
-  - id: a72c1dcd-6580-452b-9169-debf29bd48c3
-    name: Hw
+  - name: Hw
+    id: a72c1dcd-6580-452b-9169-debf29bd48c3
     type: content
 layout_spectrum: 0.4176863733742681
 color:
