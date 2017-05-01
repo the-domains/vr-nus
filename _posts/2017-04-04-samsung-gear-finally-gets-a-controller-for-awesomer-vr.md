@@ -1,12 +1,12 @@
 ---
 app_links: []
-datePublished: '2017-05-01T03:12:32.752Z'
+datePublished: '2017-05-01T03:18:00.783Z'
 description: ''
 via: {}
 keywords: []
 inFeed: true
 publisher: {}
-dateModified: '2017-05-01T03:12:31.358Z'
+dateModified: '2017-05-01T03:17:54.107Z'
 related: []
 sourcePath: _posts/2017-04-04-samsung-gear-finally-gets-a-controller-for-awesomer-vr.md
 title: ''
@@ -19,6 +19,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6dc4fc5a-bab9-4aad-a2a1-c4c7f5fa7337.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2dfb57cf-a11e-425d-ac61-dbae4bb273fa.jpg)
 
 <article style=""><h1>Samsung Gear Finally Gets a Controller for Awesomer VR</h1><p>Until phone-based VR supports the ability to move in virtual environments, an Oculus Rift or HTC Vive gives you a whole lot more of the matrix to explore. But the addition of motion controllers and the ability to manipulate digital objects have the Samsung Gear VR and Google Daydream View narrowing the gap a bit.</p></article>
