@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-05-01T03:11:25.050Z'
-dateModified: '2017-05-01T03:11:22.689Z'
+datePublished: '2017-05-01T16:14:51.946Z'
+dateModified: '2017-05-01T16:14:51.365Z'
 via: {}
 description: >-
   https://www.cnet.com/videos/samsungs-new-gear-360-vr-camera-lets-you-livestream-vr-in-real-time/
