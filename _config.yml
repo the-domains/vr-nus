@@ -22,7 +22,32 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a83d116c-211e-4b92-b18d-1f2861488c92.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/a83d116c-211e-4b92-b18d-1f2861488c92.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 navigation:
   - name: Worth it
     id: 65b15f43-39f9-49b8-b0a2-199bef1b4b19
