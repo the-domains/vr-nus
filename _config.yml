@@ -1,0 +1,113 @@
+name: VR nus
+analytics: {}
+purpose:
+  - type: contact
+    url: 'mailto:INFO@VRNUS.COM'
+    label: 'LET''S TALK '
+  - type: contact
+    url: 'tel:711276953'
+    label: Call me during labor hours
+github: true
+description: This is an space for the most weird and exciting news about VR stuff.
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F188536741&url=https%3A%2F%2Fvimeo.com%2F188536741&image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F599180163_1280.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=vimeo"
+      width="1000" height="563" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      author:
+        - name: Silverline Films
+          url: 'https://vimeo.com/silverlinefilms'
+          avatar: {}
+      datePublished: null
+      keywords: []
+      '@type': VideoObject
+      title: 2016 VR Bash
+      isBasedOnUrl: 'https://vimeo.com/188536741'
+      publisher:
+        favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+        url: 'https://vimeo.com/'
+        name: Vimeo
+        domain: vimeo.com
+      description: >-
+        Hundreds Turn Out for Record-Breaking Events in Idaho The Idaho VR
+        Council, a non-profit committed to VR / AR innovations hosted the VR
+        Bash: the largest VR / AR event in the state with over 700 people
+        packing the Knitting Factory on Wednesday night.
+      related: []
+      app_links:
+        - app_name: Vimeo
+          namespace: ai
+          app_store_id: '425194759'
+          url: 'vimeo://app.vimeo.com/videos/188536741'
+          type: ios
+        - package: com.vimeo.android.videoapp
+          app_name: Vimeo
+          namespace: ai
+          should_fallback: 'true'
+          url: 'vimeo://app.vimeo.com/videos/188536741'
+          type: web
+        - id: '425194759'
+          namespace: twitter
+          url: 'vimeo://app.vimeo.com/videos/188536741'
+          type: ipad
+          name: Vimeo
+        - id: '425194759'
+          namespace: twitter
+          url: 'vimeo://app.vimeo.com/videos/188536741'
+          type: iphone
+          name: Vimeo
+        - id: com.vimeo.android.videoapp
+          namespace: twitter
+          url: 'vimeo://app.vimeo.com/videos/188536741'
+          type: googleplay
+          name: Vimeo
+      '@context': 'http://schema.org'
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+navigation:
+  - id: 65b15f43-39f9-49b8-b0a2-199bef1b4b19
+    name: Worth it
+    type: content
+  - id: a72c1dcd-6580-452b-9169-debf29bd48c3
+    name: Hw
+    type: content
+layout_spectrum: 0.4176863733742681
+color:
+  lightness: 0.5363616620505801
+  brandColors:
+    - '#F6F6F6'
+    - '#0B0B0B'
+    - '#2F2F2F'
+    - '#515151'
+    - '#9C9C9C'
+  saturation: 0.718123145941276
+  brandStrength: 0.2409262334523114
+  rhythmicContrast: 0.6277633907797165
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b19f9e66-481d-4eac-826e-1776d2217930.png
+content_rating:
+  adult: false
+typography_spectrum: 0.1866194737187153
+opengraph: {}
+title: VR NUS
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/987f7931-e3aa-4007-9eac-cef9ac1b17ad.png
