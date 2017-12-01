@@ -22,11 +22,11 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/987f7931-e3aa-4007-9eac-cef9ac1b17ad.png
 name: VR nus
 navigation:
-  - name: Worth it
-    id: 65b15f43-39f9-49b8-b0a2-199bef1b4b19
-    type: content
   - name: Hw
     id: a72c1dcd-6580-452b-9169-debf29bd48c3
+    type: content
+  - name: Worth it
+    id: 65b15f43-39f9-49b8-b0a2-199bef1b4b19
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b19f9e66-481d-4eac-826e-1776d2217930.png
