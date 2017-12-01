@@ -1,15 +1,17 @@
 ---
 description: 'Finally, this stuff I wa waiting for was realeased.'
 author: []
-datePublished: '2017-12-01T05:59:39.087Z'
-dateModified: '2017-12-01T05:59:31.740Z'
+datePublished: '2017-12-01T06:03:42.409Z'
+dateModified: '2017-12-01T06:03:41.893Z'
 title: ''
 publisher: {}
 via: {}
 inFeed: true
+sourcePath: _posts/2017-12-01-finally-this-stuff-i-wa-waiting-for-was-realeased.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-12-01T05:59:39.087Z'
-sourcePath: _posts/2017-12-01-finally-this-stuff-i-wa-waiting-for-was-realeased.md
+url: finally-this-stuff-i-wa-waiting-for-was-realeased/index.html
 _context: 'http://schema.org'
 _type: Article
 
