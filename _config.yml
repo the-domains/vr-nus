@@ -1,3 +1,16 @@
+layout_spectrum: 0.7204839772810366
+typography_spectrum: 0.38560847313217084
+color:
+  lightness: 0.3656682783178985
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+  saturation: 0.162988095395267
+  brandStrength: 0.2384366978717839
+  rhythmicContrast: 0.2837539074667684
 name: VR nus
 analytics: {}
 purpose:
@@ -40,7 +53,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -55,23 +67,10 @@ navigation:
   - name: Hw
     id: a72c1dcd-6580-452b-9169-debf29bd48c3
     type: content
-layout_spectrum: 0.4176863733742681
-color:
-  lightness: 0.5363616620505801
-  brandColors:
-    - '#F6F6F6'
-    - '#0B0B0B'
-    - '#2F2F2F'
-    - '#515151'
-    - '#9C9C9C'
-  saturation: 0.718123145941276
-  brandStrength: 0.2409262334523114
-  rhythmicContrast: 0.6277633907797165
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b19f9e66-481d-4eac-826e-1776d2217930.png
 content_rating:
   adult: false
-typography_spectrum: 0.1866194737187153
 opengraph: {}
 title: VR NUS
 logo: >-
