@@ -28,9 +28,6 @@ navigation:
   - name: Hw
     id: a72c1dcd-6580-452b-9169-debf29bd48c3
     type: content
-  - name: HW
-    id: 98d066f8-1616-4c01-b372-0c5b46d79a1f
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b19f9e66-481d-4eac-826e-1776d2217930.png
 collections:
