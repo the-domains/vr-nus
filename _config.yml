@@ -1,6 +1,61 @@
-typography_spectrum: 0.27550878247347577
-content_rating:
-  adult: false
+name: VR nus
+analytics: {}
+purpose:
+  - type: contact
+    url: 'mailto:INFO@VRNUS.COM'
+    label: 'LET''S TALK '
+  - type: contact
+    url: 'tel:711276953'
+    label: Call me during labor hours
+github: true
+description: This is a space for the most weird and exciting news about VR stuff.
+author:
+  name: Camilo Islas
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a83d116c-211e-4b92-b18d-1f2861488c92.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/a83d116c-211e-4b92-b18d-1f2861488c92.jpg
+    metadata:
+      author: []
+      '@context': 'http://schema.org'
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      app_links: []
+      related: []
+      description: ''
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+navigation:
+  - id: a72c1dcd-6580-452b-9169-debf29bd48c3
+    name: Hw
+    type: content
+  - id: 65b15f43-39f9-49b8-b0a2-199bef1b4b19
+    name: Worth it
+    type: content
+layout_spectrum: 0.3427485917124086
 color:
   lightness: 0.5751171760936958
   brandColors:
@@ -12,67 +67,12 @@ color:
   saturation: 0.6136300945782683
   brandStrength: 0.6210144844245498
   rhythmicContrast: 0.6532375950186449
-github: true
-opengraph: {}
-layout_spectrum: 0.3427485917124086
-analytics: {}
-author:
-  name: Camilo Islas
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/987f7931-e3aa-4007-9eac-cef9ac1b17ad.png
-name: VR nus
-navigation:
-  - name: Hw
-    id: a72c1dcd-6580-452b-9169-debf29bd48c3
-    type: content
-  - name: Worth it
-    id: 65b15f43-39f9-49b8-b0a2-199bef1b4b19
-    type: content
+content_rating:
+  adult: false
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b19f9e66-481d-4eac-826e-1776d2217930.png
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
+typography_spectrum: 0.27550878247347577
+opengraph: {}
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/987f7931-e3aa-4007-9eac-cef9ac1b17ad.png
 title: VR NUS
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a83d116c-211e-4b92-b18d-1f2861488c92.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/a83d116c-211e-4b92-b18d-1f2861488c92.jpg
-    metadata:
-      datePublished: null
-      keywords: []
-      related: []
-      author: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      app_links: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      description: ''
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
-description: This is an space for the most weird and exciting news about VR stuff.
-purpose:
-  - type: contact
-    url: 'mailto:INFO@VRNUS.COM'
-    label: 'LET''S TALK '
-  - type: contact
-    url: 'tel:711276953'
-    label: Call me during labor hours
